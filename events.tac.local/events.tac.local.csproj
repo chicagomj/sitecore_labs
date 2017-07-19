@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Project\TAC\Events.DI.config" />
+    <Content Include="App_Config\Include\Project\TAC\Events.Serialization.config" />
     <None Include="App_Config\Include\Project\TAC\Events.Services.Client.config" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
