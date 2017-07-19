@@ -1,0 +1,560 @@
+----item----
+version: 1
+id: {0505BD40-699D-4AEB-ABE3-6E555C403F18}
+database: master
+path: /sitecore/content/Events/Home/Events/Hiking/Climbing into the abyss
+parent: {8BAA0A57-280A-4C5D-BEF8-DEE5C7BCEE37}
+name: Climbing into the abyss
+master: {00000000-0000-0000-0000-000000000000}
+template: {724BC583-2DAE-40FE-AEF0-9901AA91F476}
+templatekey: Event Details
+created: 20170717T191559:636359157595330000
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{4F39DC00-3194-4F35-BE0A-FA4CCCDE7A37}
+----version----
+language: en
+version: 1
+revision: b9672ede-568c-4b8b-ad69-86c110ef3096
+
+----field----
+field: {16A2FFD1-70D9-4C05-B4D5-D63F40DFF7CE}
+name: Highlights
+key: highlights
+content-length: 23
+
+Explore the inner world
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 47
+
+Experience the thrills of deep cave exploration
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {CB23AB12-BCBF-4D84-ACB9-4338C44C13F9}
+name: Duration
+key: duration
+content-length: 1
+
+1
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170717T191559Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b9672ede-568c-4b8b-ad69-86c110ef3096
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T184031Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{89AE0EB4-A3B4-43F3-A6B7-05049C3A5411}
+----version----
+language: en
+version: 2
+revision: 4b52f5cb-095c-4ac5-8c63-33a5e255228d
+
+----field----
+field: {16A2FFD1-70D9-4C05-B4D5-D63F40DFF7CE}
+name: Highlights
+key: highlights
+content-length: 23
+
+Explore the inner world
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 47
+
+Experience the thrills of deep cave exploration
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {CB23AB12-BCBF-4D84-ACB9-4338C44C13F9}
+name: Duration
+key: duration
+content-length: 1
+
+1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20170718T185020Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170718T185020Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4b52f5cb-095c-4ac5-8c63-33a5e255228d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T185020Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 3
+revision: 925fedbc-c96e-4977-8784-c50bdfdab691
+
+----field----
+field: {16A2FFD1-70D9-4C05-B4D5-D63F40DFF7CE}
+name: Highlights
+key: highlights
+content-length: 23
+
+Explore the inner world
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 47
+
+Experience the thrills of deep cave exploration
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {CB23AB12-BCBF-4D84-ACB9-4338C44C13F9}
+name: Duration
+key: duration
+content-length: 1
+
+1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20170718T185031Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170718T185031Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+925fedbc-c96e-4977-8784-c50bdfdab691
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T185031Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 4
+revision: 061b7899-7c92-447a-a75a-670c410c337e
+
+----field----
+field: {16A2FFD1-70D9-4C05-B4D5-D63F40DFF7CE}
+name: Highlights
+key: highlights
+content-length: 23
+
+Explore the inner world
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 47
+
+Experience the thrills of deep cave exploration
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {CB23AB12-BCBF-4D84-ACB9-4338C44C13F9}
+name: Duration
+key: duration
+content-length: 1
+
+1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20170718T185050Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170718T185050Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+061b7899-7c92-447a-a75a-670c410c337e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T185050Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 5
+revision: cd2ac242-19dc-4bdd-a492-136854410eb5
+
+----field----
+field: {16A2FFD1-70D9-4C05-B4D5-D63F40DFF7CE}
+name: Highlights
+key: highlights
+content-length: 23
+
+Explore the inner world
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 47
+
+Experience the thrills of deep cave exploration
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {CB23AB12-BCBF-4D84-ACB9-4338C44C13F9}
+name: Duration
+key: duration
+content-length: 1
+
+1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20170718T185224Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170718T185224Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cd2ac242-19dc-4bdd-a492-136854410eb5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T185224Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 6
+revision: 5d9c1a93-f04e-4b0a-8f53-17ce8fa831c0
+
+----field----
+field: {16A2FFD1-70D9-4C05-B4D5-D63F40DFF7CE}
+name: Highlights
+key: highlights
+content-length: 23
+
+Explore the inner world
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 47
+
+Experience the thrills of deep cave exploration
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 23
+
+Climbing into the abyss
+----field----
+field: {CB23AB12-BCBF-4D84-ACB9-4338C44C13F9}
+name: Duration
+key: duration
+content-length: 1
+
+1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20170718T185622Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170718T185622Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5d9c1a93-f04e-4b0a-8f53-17ce8fa831c0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T185622Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{89AE0EB4-A3B4-43F3-A6B7-05049C3A5411}

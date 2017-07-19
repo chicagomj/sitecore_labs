@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {8BAA0A57-280A-4C5D-BEF8-DEE5C7BCEE37}
+database: master
+path: /sitecore/content/Events/Home/Events/Hiking
+parent: {9CD94EE3-459A-4B17-A79B-FBD69ABA3EE4}
+name: Hiking
+master: {00000000-0000-0000-0000-000000000000}
+template: {92C878F6-7573-4AE0-9D44-1DE3C19A0986}
+templatekey: Events List
+created: 20170711T205453:636354032938000000
+
+----field----
+field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
+name: __Editors
+key: __editors
+content-length: 0
+
+
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: ff9f0dd2-3646-4437-b68e-fe263627ddaa
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 6
+
+Hiking
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 6
+
+Hiking
+----field----
+field: {25D57132-8BA2-4B84-A218-04EF4B7473D1}
+name: ExcludeFromNavigation
+key: excludefromnavigation
+content-length: 0
+
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 265
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{5F6258A7-0631-4168-8857-D0907B914501}" p:before="*" s:id="{5FD901C0-6F21-4E98-8C0E-16A3FD8D2A8E}" s:ph="/main/pageContent" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170711T205453Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ff9f0dd2-3646-4437-b68e-fe263627ddaa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T180443Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

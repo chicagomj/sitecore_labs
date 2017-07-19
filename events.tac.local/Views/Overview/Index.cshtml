@@ -1,0 +1,20 @@
+﻿@model events.tac.local.Models.OverviewList
+
+<!-- [Category List] -->
+<ul class="block-grid-md-4 block-grid-sm-3 block-grid-xs-1">
+    @foreach (var i in Model) { 
+    <li>
+        <div class="thumbnail">
+            <a href="Event-List.html">
+                @i.Image
+            </a>
+            <div class="caption">
+                <h3 class="teaser-heading">@i.Title</h3>
+                <a href="@i.URL" class="btn btn-default">@Model.ReadMore</a>
+            </div>
+        </div>
+    </li>
+    }
+
+</ul>
+<!-- [Category List] -->

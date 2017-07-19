@@ -1,0 +1,342 @@
+   1 11:51:19,246 INFO  **********************************************************************
+   1 11:51:19,260 INFO  **********************************************************************
+   1 11:51:19,260 INFO  Sitecore Instance Manager started
+   1 11:51:19,260 INFO  Version: 1.5.0.112
+   1 11:51:19,260 INFO  Revision: 0.112
+   1 11:51:19,260 INFO  Label: 
+   1 11:51:19,260 INFO  IsQA: False
+   1 11:51:19,260 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:51:19,260 INFO  Arguments: delete|-n
+   1 11:51:19,260 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:51:19,261 INFO  **********************************************************************
+   1 11:51:19,261 INFO  **********************************************************************
+   1 11:51:19,264 DEBUG               Insights - starting
+   1 11:51:19,317 DEBUG               Insights - started
+   1 11:51:23,422 INFO  **********************************************************************
+   1 11:51:23,436 INFO  **********************************************************************
+   1 11:51:23,436 INFO  Sitecore Instance Manager started
+   1 11:51:23,436 INFO  Version: 1.5.0.112
+   1 11:51:23,436 INFO  Revision: 0.112
+   1 11:51:23,436 INFO  Label: 
+   1 11:51:23,436 INFO  IsQA: False
+   1 11:51:23,436 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:51:23,436 INFO  Arguments: install|-n
+   1 11:51:23,436 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:51:23,436 INFO  **********************************************************************
+   1 11:51:23,436 INFO  **********************************************************************
+   1 11:51:23,439 DEBUG               Insights - starting
+   1 11:51:23,489 DEBUG               Insights - started
+   1 11:51:38,950 INFO  **********************************************************************
+   1 11:51:38,964 INFO  **********************************************************************
+   1 11:51:38,964 INFO  Sitecore Instance Manager started
+   1 11:51:38,964 INFO  Version: 1.5.0.112
+   1 11:51:38,964 INFO  Revision: 0.112
+   1 11:51:38,964 INFO  Label: 
+   1 11:51:38,964 INFO  IsQA: False
+   1 11:51:38,964 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:51:38,964 INFO  Arguments: delete|-n|production
+   1 11:51:38,964 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:51:38,964 INFO  **********************************************************************
+   1 11:51:38,964 INFO  **********************************************************************
+   1 11:51:38,968 DEBUG               Insights - starting
+   1 11:51:39,020 DEBUG               Insights - started
+   1 11:51:39,124 DEBUG               params defaultRootFolder: null
+   1 11:51:39,125 DEBUG               -> Getting operable sites
+   1 11:51:39,125 DEBUG                  params context: object (SIM.Adapters.WebServer.WebServerManager+WebServerContext)
+   1 11:51:39,125 DEBUG                  params defaultRootFolder: null
+   1 11:51:39,151 DEBUG                  return ICollection, 3 elements
+   1 11:51:39,152 DEBUG    26.52ms    -  Getting operable sites
+   1 11:51:39,152 DEBUG               -> Getting partially cached Sitecore instances
+   1 11:51:39,152 DEBUG                  params sites: ICollection, 3 elements
+   1 11:51:39,156 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 1)
+   1 11:51:39,178 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 2)
+   1 11:51:39,186 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 3)
+   1 11:51:39,192 DEBUG                  return ICollection, 0 elements
+   1 11:51:39,192 DEBUG    39.84ms    -  Getting partially cached Sitecore instances
+   1 11:51:39,193 DEBUG               -> Get instances
+   1 11:51:39,193 DEBUG                  return ICollection, 0 elements
+   1 11:51:39,193 DEBUG     0.51ms    -  Get instances
+   1 11:51:39,196 INFO  DeleteCommandFacade command has failed with unhandled exception
+System.InvalidOperationException: Cannot find instances by name: production
+   at SIM.Core.Common.AbstractMultiInstanceActionCommand.GetInstances(String listString)
+   at SIM.Core.Common.AbstractMultiInstanceActionCommand.DoExecute(CommandResult result)
+   at SIM.Core.Common.AbstractCommand.Execute()
+   1 11:51:39,458 INFO  **********************************************************************
+   1 11:51:39,472 INFO  **********************************************************************
+   1 11:51:39,472 INFO  Sitecore Instance Manager started
+   1 11:51:39,472 INFO  Version: 1.5.0.112
+   1 11:51:39,472 INFO  Revision: 0.112
+   1 11:51:39,472 INFO  Label: 
+   1 11:51:39,472 INFO  IsQA: False
+   1 11:51:39,472 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:51:39,472 INFO  Arguments: install|-n|production
+   1 11:51:39,472 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:51:39,472 INFO  **********************************************************************
+   1 11:51:39,472 INFO  **********************************************************************
+   1 11:51:39,476 DEBUG               Insights - starting
+   1 11:51:39,527 DEBUG               Insights - started
+   1 11:51:39,683 DEBUG               -> Refresh product manager
+   1 11:51:39,684 DEBUG                  params localRepository: "C:\data\sitecore"
+   1 11:51:39,685 DEBUG               -> -> Get product files
+   1 11:51:39,685 DEBUG                     params localRepository: "C:\data\sitecore"
+   1 11:51:39,685 DEBUG                     return ICollection, 1 elements
+   1 11:51:39,686 DEBUG     0.70ms    -  -  Get product files
+   1 11:51:39,686 DEBUG               -> -> Refresh product manager
+   1 11:51:39,687 DEBUG                     params zipFiles: ICollection, 1 elements
+   1 11:51:39,687 DEBUG               -> -> -> Process file
+   1 11:51:39,687 DEBUG                        params file: "C:\data\sitecore\Sitecore 8.2 rev. 160729.zip"
+   1 11:51:39,712 DEBUG               -> -> -> -> Is it package or not
+   1 11:51:39,712 DEBUG                           params packagePath: "C:\data\sitecore\Sitecore 8.2 rev. 160729.zip"
+   1 11:51:39,712 DEBUG                           params manifest: object (SIM.XmlDocumentEx)
+   1 11:51:39,712 DEBUG                           return False (System.Boolean)
+   1 11:51:39,712 DEBUG     0.21ms    -  -  -  -  Is it package or not
+   1 11:51:39,712 DEBUG                        return "Added"
+   1 11:51:39,712 DEBUG    24.91ms    -  -  -  Process file
+   1 11:51:39,713 DEBUG    26.06ms    -  -  Refresh product manager
+   1 11:51:39,713 DEBUG    29.56ms    -  Refresh product manager
+   1 11:51:39,718 DEBUG               Pipelines RAW configuration: <pipelines><install title="Installing the {InstanceName} instance"><step><processor type="SIM.Pipelines.Install.CheckPackageIntegrity, SIM.Pipelines" title="Validating install package" /></step><step><processor type="SIM.Pipelines.Install.GrantPermissions, SIM.Pipelines" title="Granting permissions" /><processor type="SIM.Pipelines.Install.Extract, SIM.Pipelines" title="Extracting files"><processor type="SIM.Pipelines.Install.CopyLicense, SIM.Pipelines" title="Copying license" /><processor type="SIM.Pipelines.Install.SetupWebsite, SIM.Pipelines" title="Configuring IIS website" /><processor type="SIM.Pipelines.Install.UpdateWebConfig, SIM.Pipelines" title="Setting data folder" /><processor type="SIM.Pipelines.Install.AddServerTxt, SIM.Pipelines" title="Adding server.txt file" /></processor><processor type="SIM.Pipelines.Install.UpdateHosts, SIM.Pipelines" title="Updating hosts file" /><processor type="SIM.Pipelines.Install.InstallRoles, SIM.Pipelines" title="Installing configuration roles" /></step><step><processor type="SIM.Pipelines.Install.AttachDatabases, SIM.Pipelines" title="Attaching databases" /></step><step><processor type="SIM.Pipelines.Install.Modules.InstallActions, SIM.Pipelines" param="archive" title="Modules: installing archive-based modules" /><processor type="SIM.Pipelines.Install.Modules.CopyAgentFiles, SIM.Pipelines" title="Modules: copying agent files"><processor type="SIM.Pipelines.Install.Modules.CopyPackages, SIM.Pipelines" title="Modules: copying packages"><processor type="SIM.Pipelines.Install.Modules.InstallActions, SIM.Pipelines" param="package|before" title="Modules: performing pre-install actions"><processor type="SIM.Pipelines.Install.Modules.StartInstance, SIM.Pipelines" title="Modules: starting instance"><processor type="SIM.Pipelines.Install.Modules.InstallPackages, SIM.Pipelines" title="Modules: installing packages"><processor type="SIM.Pipelines.Install.Modules.StartInstance, SIM.Pipelines" title="Modules: starting instance (again)"><processor type="SIM.Pipelines.Install.Modules.PerformPostStepActions, SIM.Pipelines" title="Modules: performing post-step actions"><processor type="SIM.Pipelines.Install.Modules.InstallActions, SIM.Pipelines" param="package|after" title="Modules: performing post-install actions"><processor type="SIM.Pipelines.Install.Modules.DeleteAgentPages, SIM.Pipelines" title="Modules: agent files" /></processor></processor></processor></processor></processor></processor></processor></processor></step><step><processor type="SIM.Pipelines.Install.Modules.StartInstance, SIM.Pipelines" title="Starting instance" param="nowait" /></step></install><multipleDeletion title="Multiple deletion"><step><processor type="SIM.Pipelines.MultipleDeletion.MultipleDeletion, SIM.Pipelines" title="Deleting the selected instances" /></step></multipleDeletion><delete title="Deleting the {InstanceName} instance"><step><processor type="SIM.Pipelines.Delete.CollectData, SIM.Pipelines" title="Collecting data" /></step><step><processor type="SIM.Pipelines.Delete.DeleteRegistryKey, SIM.Pipelines" title="Deleting registry key" /><processor type="SIM.Pipelines.Delete.StopInstance, SIM.Pipelines" title="Stopping application" /><processor type="SIM.Pipelines.Delete.DeleteDataFolder, SIM.Pipelines" title="Deleting data folder" /><processor type="SIM.Pipelines.Delete.DeleteDatabases, SIM.Pipelines" title="Deleting databases" /><processor type="SIM.Pipelines.Delete.DeleteMongoDatabases, SIM.Pipelines" title="Deleting databases" /><processor type="SIM.Pipelines.Delete.DeleteWebsiteFolder, SIM.Pipelines" title="Deleting website folder" /></step><step><processor type="SIM.Pipelines.Delete.DeleteRootFolder, SIM.Pipelines" title="Deleting root folder" /></step><step><processor type="SIM.Pipelines.Delete.DeleteWebsite, SIM.Pipelines" title="Deleting website" /><processor type="SIM.Pipelines.Delete.UpdateHosts, SIM.Pipelines" title="Updating the hosts file" /></step></delete><reinstall title="Reinstalling the {InstanceName} instance"><step><processor type="SIM.Pipelines.Reinstall.CheckPackageIntegrity, SIM.Pipelines" title="Validating package" /></step><step><processor type="SIM.Pipelines.Reinstall.StopInstance, SIM.Pipelines" title="Stopping application" /><processor type="SIM.Pipelines.Reinstall.DeleteDataFolder, SIM.Pipelines" title="Deleting data folder" /><processor type="SIM.Pipelines.Reinstall.DeleteDatabases, SIM.Pipelines" title="Deleting databases" /><processor type="SIM.Pipelines.Reinstall.DeleteWebsite, SIM.Pipelines" title="Deleting IIS website" /><processor type="SIM.Pipelines.Reinstall.DeleteWebsiteFolder, SIM.Pipelines" title="Deleting website folder" /></step><step><processor type="SIM.Pipelines.Reinstall.DeleteRootFolder, SIM.Pipelines" title="Recreating root folder" /></step><step><processor type="SIM.Pipelines.Reinstall.Extract, SIM.Pipelines" title="Extracting files"><processor type="SIM.Pipelines.Reinstall.CopyLicense, SIM.Pipelines" title="Copying license" /><processor type="SIM.Pipelines.Reinstall.SetupWebsite, SIM.Pipelines" title="Configuring IIS website" /><processor type="SIM.Pipelines.Reinstall.UpdateWebConfig, SIM.Pipelines" title="Setting the data folder" /><processor type="SIM.Pipelines.Reinstall.AddServerTxt, SIM.Pipelines" title="Adding server.txt file" /><processor type="SIM.Pipelines.Reinstall.DeleteTempFolder, SIM.Pipelines" title="Collecting garbage" /></processor></step><step><processor type="SIM.Pipelines.Reinstall.AttachDatabases, SIM.Pipelines" title="Attaching databases" /></step><step><processor type="SIM.Pipelines.Reinstall.StartInstance, SIM.Pipelines" title="Starting instance" param="nowait" /></step></reinstall><installmodules title="Installing modules to the {InstanceName} instance"><processor type="SIM.Pipelines.InstallModules.InstallActions, SIM.Pipelines" param="archive" title="Installing archive-based modules" /><processor type="SIM.Pipelines.InstallModules.CopyAgentFiles, SIM.Pipelines" title="Copying agent files"><processor type="SIM.Pipelines.InstallModules.CopyPackages, SIM.Pipelines" title="Copying packages into Website folder"><processor type="SIM.Pipelines.InstallModules.InstallActions, SIM.Pipelines" param="package|before" title="Performing pre-install actions"><processor type="SIM.Pipelines.InstallModules.StartInstance, SIM.Pipelines" title="Starting the instance"><processor type="SIM.Pipelines.InstallModules.InstallPackages, SIM.Pipelines" title="Installing the packages"><processor type="SIM.Pipelines.InstallModules.StartInstance, SIM.Pipelines" title="Starting the instance (again)"><processor type="SIM.Pipelines.InstallModules.PerformPostStepActions, SIM.Pipelines" title="Performing post-step actions"><processor type="SIM.Pipelines.InstallModules.InstallActions, SIM.Pipelines" param="package|after" title="Performing post-install actions"><processor type="SIM.Pipelines.InstallModules.DeleteAgentPages, SIM.Pipelines" title="Deleting agent files"><processor type="SIM.Pipelines.InstallModules.StartInstance, SIM.Pipelines" title="Starting instance" param="nowait" /></processor></processor></processor></processor></processor></processor></processor></processor></processor></installmodules><backup title="Backing up the {InstanceName} instance"><processor type="SIM.Pipelines.Backup.BackupDatabases, SIM.Pipelines" title="Backing up databases" /><processor type="SIM.Pipelines.Backup.BackupMongoDatabases, SIM.Pipelines" title="Backing up MongoDB databases" /><processor type="SIM.Pipelines.Backup.BackupFiles, SIM.Pipelines" title="Backing up files" /></backup><restore title="Restoring the {InstanceName} instance"><processor type="SIM.Pipelines.Restore.RestoreDatabases, SIM.Pipelines" title="Restoring databases" /><processor type="SIM.Pipelines.Restore.RestoreMongoDatabases, SIM.Pipelines" title="Restoring MongoDB databases" /><processor type="SIM.Pipelines.Restore.DeleteFiles, SIM.Pipelines" title="Deleting files"><processor type="SIM.Pipelines.Restore.RestoreFiles, SIM.Pipelines" title="Restoring files" /></processor></restore><export title="Exporting the {InstanceName} instance"><step><processor type="SIM.Pipelines.Export.ExportDatabases, SIM.Pipelines" title="Exporting databases" /><processor type="SIM.Pipelines.Export.ExportMongoDatabases, SIM.Pipelines" title="Exporting MongoDB databases" /></step><step><processor type="SIM.Pipelines.Export.ExportFiles, SIM.Pipelines" title="Exporting files" /></step><step><processor type="SIM.Pipelines.Export.ExportSettings, SIM.Pipelines" title="Exporting settings" /></step><step><processor type="SIM.Pipelines.Export.ExportPostActions, SIM.Pipelines" title="Assembling zip package" /></step></export><import title="Importing instance"><processor type="SIM.Pipelines.Import.ImportInitialization, SIM.Pipelines" title="Initialization"><processor type="SIM.Pipelines.Import.ImportRestoreDatabases, SIM.Pipelines" title="Restore databases" /><processor type="SIM.Pipelines.Import.ImportRestoreMongoDatabases, SIM.Pipelines" title="Restore MongoDB databases" /><processor type="SIM.Pipelines.Import.ImportUnpackSolution, SIM.Pipelines" title="Unpack solution"><processor type="SIM.Pipelines.Import.UpdateConnectionStrings, SIM.Pipelines" title="Update connection strings" /><processor type="SIM.Pipelines.Import.UpdateDataFolder, SIM.Pipelines" title="Update data folder" /><processor type="SIM.Pipelines.Import.UpdateLicense, SIM.Pipelines" title="Update license" /></processor><processor type="SIM.Pipelines.Import.ImportRegisterWebsite, SIM.Pipelines" title="Update IIS metabase" /><processor type="SIM.Pipelines.Import.ImportHostNames, SIM.Pipelines" title="Update hosts file" /></processor></import></pipelines>
+   1 11:51:39,748 INFO  Pipeline 'install' starts, isAsync: False
+   1 11:51:39,748 DEBUG               -> Start pipeline
+   1 11:51:39,748 DEBUG                  params pipelineName: "install"
+   1 11:51:39,748 DEBUG                  params args: object (SIM.Pipelines.Install.InstallArgs)
+   1 11:51:39,748 DEBUG                  params pipelineController: object (SIM.Core.Common.AggregatePipelineController)
+   1 11:51:39,748 DEBUG                  params isAsync: False (System.Boolean)
+   1 11:51:39,748 DEBUG               -> -> Create pipeline
+   1 11:51:39,748 DEBUG                     params pipelineName: "install"
+   1 11:51:39,748 DEBUG                     params args: object (SIM.Pipelines.Install.InstallArgs)
+   1 11:51:39,748 DEBUG                     params controller: object (SIM.Core.Common.AggregatePipelineController)
+   1 11:51:39,748 DEBUG                     params isAsync: False (System.Boolean)
+   1 11:51:39,752 DEBUG               -> -> -> Create object
+   1 11:51:39,752 DEBUG                        params type: SIM.Pipelines.Install.CheckPackageIntegrity (System.RuntimeType)
+   1 11:51:39,752 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,753 DEBUG                        return (empty processor) (SIM.Pipelines.Install.CheckPackageIntegrity)
+   1 11:51:39,753 DEBUG     1.00ms    -  -  -  Create object
+   1 11:51:39,753 DEBUG               -> -> -> Create object
+   1 11:51:39,753 DEBUG                        params type: SIM.Pipelines.Install.GrantPermissions (System.RuntimeType)
+   1 11:51:39,753 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,753 DEBUG                        return (empty processor) (SIM.Pipelines.Install.GrantPermissions)
+   1 11:51:39,753 DEBUG     0.08ms    -  -  -  Create object
+   1 11:51:39,753 DEBUG               -> -> -> Create object
+   1 11:51:39,753 DEBUG                        params type: SIM.Pipelines.Install.Extract (System.RuntimeType)
+   1 11:51:39,753 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,753 DEBUG                        return (empty processor) (SIM.Pipelines.Install.Extract)
+   1 11:51:39,753 DEBUG     0.07ms    -  -  -  Create object
+   1 11:51:39,753 DEBUG               -> -> -> Create object
+   1 11:51:39,753 DEBUG                        params type: SIM.Pipelines.Install.CopyLicense (System.RuntimeType)
+   1 11:51:39,753 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,753 DEBUG                        return (empty processor) (SIM.Pipelines.Install.CopyLicense)
+   1 11:51:39,753 DEBUG     0.06ms    -  -  -  Create object
+   1 11:51:39,753 DEBUG               -> -> -> Create object
+   1 11:51:39,753 DEBUG                        params type: SIM.Pipelines.Install.SetupWebsite (System.RuntimeType)
+   1 11:51:39,753 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,754 DEBUG                        return (empty processor) (SIM.Pipelines.Install.SetupWebsite)
+   1 11:51:39,754 DEBUG     0.08ms    -  -  -  Create object
+   1 11:51:39,754 DEBUG               -> -> -> Create object
+   1 11:51:39,754 DEBUG                        params type: SIM.Pipelines.Install.UpdateWebConfig (System.RuntimeType)
+   1 11:51:39,754 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,754 DEBUG                        return (empty processor) (SIM.Pipelines.Install.UpdateWebConfig)
+   1 11:51:39,754 DEBUG     0.07ms    -  -  -  Create object
+   1 11:51:39,754 DEBUG               -> -> -> Create object
+   1 11:51:39,754 DEBUG                        params type: SIM.Pipelines.Install.AddServerTxt (System.RuntimeType)
+   1 11:51:39,754 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,754 DEBUG                        return (empty processor) (SIM.Pipelines.Install.AddServerTxt)
+   1 11:51:39,754 DEBUG     0.07ms    -  -  -  Create object
+   1 11:51:39,754 DEBUG               -> -> -> Create object
+   1 11:51:39,754 DEBUG                        params type: SIM.Pipelines.Install.UpdateHosts (System.RuntimeType)
+   1 11:51:39,754 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,754 DEBUG                        return (empty processor) (SIM.Pipelines.Install.UpdateHosts)
+   1 11:51:39,754 DEBUG     0.06ms    -  -  -  Create object
+   1 11:51:39,754 DEBUG               -> -> -> Create object
+   1 11:51:39,754 DEBUG                        params type: SIM.Pipelines.Install.InstallRoles (System.RuntimeType)
+   1 11:51:39,754 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,754 DEBUG                        return (empty processor) (SIM.Pipelines.Install.InstallRoles)
+   1 11:51:39,754 DEBUG     0.11ms    -  -  -  Create object
+   1 11:51:39,754 DEBUG               -> -> -> Create object
+   1 11:51:39,754 DEBUG                        params type: SIM.Pipelines.Install.AttachDatabases (System.RuntimeType)
+   1 11:51:39,754 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,754 DEBUG                        return (empty processor) (SIM.Pipelines.Install.AttachDatabases)
+   1 11:51:39,754 DEBUG     0.14ms    -  -  -  Create object
+   1 11:51:39,754 DEBUG               -> -> -> Create object
+   1 11:51:39,754 DEBUG                        params type: SIM.Pipelines.Install.Modules.InstallActions (System.RuntimeType)
+   1 11:51:39,754 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,754 DEBUG                        return (empty processor) (SIM.Pipelines.Install.Modules.InstallActions)
+   1 11:51:39,754 DEBUG     0.14ms    -  -  -  Create object
+   1 11:51:39,755 DEBUG               -> -> -> Create object
+   1 11:51:39,755 DEBUG                        params type: SIM.Pipelines.Install.Modules.CopyAgentFiles (System.RuntimeType)
+   1 11:51:39,755 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,755 DEBUG                        return (empty processor) (SIM.Pipelines.Install.Modules.CopyAgentFiles)
+   1 11:51:39,755 DEBUG     0.08ms    -  -  -  Create object
+   1 11:51:39,755 DEBUG               -> -> -> Create object
+   1 11:51:39,755 DEBUG                        params type: SIM.Pipelines.Install.Modules.StartInstance (System.RuntimeType)
+   1 11:51:39,755 DEBUG                        params objects: ICollection, 0 elements
+   1 11:51:39,755 DEBUG                        return (empty processor) (SIM.Pipelines.Install.Modules.StartInstance)
+   1 11:51:39,755 DEBUG     0.08ms    -  -  -  Create object
+   1 11:51:39,756 DEBUG                     return object (SIM.Pipelines.Pipeline)
+   1 11:51:39,756 DEBUG     7.61ms    -  -  Create pipeline
+   1 11:51:39,756 DEBUG               -> -> Start pipeline
+   1 11:51:39,756 DEBUG                     Caller: SIM.Pipelines.Pipeline
+   1 11:51:39,757 DEBUG               -> -> -> Replace pipeline variables in message
+   1 11:51:39,757 DEBUG                        params message: "Installing the {InstanceName} instance"
+   1 11:51:39,757 DEBUG                        params args: object (SIM.Pipelines.Install.InstallArgs)
+   1 11:51:39,758 DEBUG                        return "Installing the production instance"
+   1 11:51:39,758 DEBUG     1.32ms    -  -  -  Replace pipeline variables in message
+   1 11:51:39,759 DEBUG               -> -> -> Execute pipeline processors
+   1 11:51:39,759 DEBUG                        params info: object (SIM.Pipelines.Pipeline+PipelineStartInfo)
+   1 11:51:39,815 DEBUG               -> -> -> -> Execute pipeline steps
+   1 11:51:39,815 DEBUG                           params args: object (SIM.Pipelines.Install.InstallArgs)
+   1 11:51:39,815 DEBUG                           params steps: ICollection, 5 elements
+   1 11:51:39,815 DEBUG                           params controller: object (SIM.Core.Common.AggregatePipelineController)
+   1 11:51:39,816 DEBUG                           params startThisAndNestedProcessors: True (System.Boolean)
+   1 11:51:39,816 DEBUG               -> -> -> -> -> Execute pipeline processors
+   1 11:51:39,816 DEBUG                              params args: object (SIM.Pipelines.Install.InstallArgs)
+   1 11:51:39,816 DEBUG                              params processorList: ICollection, 1 elements
+   1 11:51:39,816 DEBUG                              params controller: object (SIM.Core.Common.AggregatePipelineController)
+   1 11:51:39,816 DEBUG                              params startThisAndNestedProcessors: True (System.Boolean)
+   1 11:51:39,857 DEBUG               -> -> -> -> -> -> Execute pipeline processors
+   1 11:51:39,857 DEBUG                                 params args: object (SIM.Pipelines.Install.InstallArgs)
+   1 11:51:39,857 DEBUG                                 params processorList: ICollection, 0 elements
+   1 11:51:39,857 DEBUG                                 params controller: object (SIM.Core.Common.AggregatePipelineController)
+   1 11:51:39,857 DEBUG                                 params startThisAndNestedProcessors: True (System.Boolean)
+   1 11:51:39,857 DEBUG                                 return True (System.Boolean)
+   1 11:51:39,857 DEBUG     0.05ms    -  -  -  -  -  -  Execute pipeline processors
+   1 11:51:39,857 DEBUG                              return True (System.Boolean)
+   1 11:51:39,857 DEBUG    41.35ms    -  -  -  -  -  Execute pipeline processors
+   1 11:51:39,857 DEBUG               -> -> -> -> -> Execute pipeline processors
+   1 11:51:39,857 DEBUG                              params args: object (SIM.Pipelines.Install.InstallArgs)
+   1 11:51:39,857 DEBUG                              params processorList: ICollection, 4 elements
+   1 11:51:39,857 DEBUG                              params controller: object (SIM.Core.Common.AggregatePipelineController)
+   1 11:51:39,857 DEBUG                              params startThisAndNestedProcessors: True (System.Boolean)
+   1 11:51:39,888 INFO  Creating folder Sitecore 8.2 rev. 160729
+   1 11:51:39,889 INFO  Creating folder Sitecore 8.2 rev. 160729\Website
+   1 11:51:39,896 INFO  Granting full access for 'NT AUTHORITY\NETWORK SERVICE' identity to the 'Sitecore 8.2 rev. 160729\Website' folder
+   1 11:51:39,897 INFO  Creating folder Sitecore 8.2 rev. 160729\Data
+   1 11:51:39,898 INFO  Granting full access for 'NT AUTHORITY\NETWORK SERVICE' identity to the 'Sitecore 8.2 rev. 160729\Data' folder
+   1 11:51:39,899 DEBUG               -> -> -> -> -> -> Execute pipeline processors
+   1 11:51:39,899 DEBUG                                 params args: object (SIM.Pipelines.Install.InstallArgs)
+   1 11:51:39,900 DEBUG                                 params processorList: ICollection, 0 elements
+   1 11:51:39,900 DEBUG                                 params controller: object (SIM.Core.Common.AggregatePipelineController)
+   1 11:51:39,900 DEBUG                                 params startThisAndNestedProcessors: True (System.Boolean)
+   1 11:51:39,900 DEBUG                                 return True (System.Boolean)
+   1 11:51:39,900 DEBUG     0.09ms    -  -  -  -  -  -  Execute pipeline processors
+   1 11:51:39,903 INFO  Extracting C:\data\sitecore\Sitecore 8.2 rev. 160729.zip
+   1 11:52:41,418 INFO  **********************************************************************
+   1 11:52:41,433 INFO  **********************************************************************
+   1 11:52:41,433 INFO  Sitecore Instance Manager started
+   1 11:52:41,433 INFO  Version: 1.5.0.112
+   1 11:52:41,433 INFO  Revision: 0.112
+   1 11:52:41,433 INFO  Label: 
+   1 11:52:41,433 INFO  IsQA: False
+   1 11:52:41,433 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:52:41,433 INFO  Arguments: delete|-n|production
+   1 11:52:41,433 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:52:41,433 INFO  **********************************************************************
+   1 11:52:41,433 INFO  **********************************************************************
+   1 11:52:41,436 DEBUG               Insights - starting
+   1 11:52:41,490 DEBUG               Insights - started
+   1 11:52:41,597 DEBUG               params defaultRootFolder: null
+   1 11:52:41,598 DEBUG               -> Getting operable sites
+   1 11:52:41,598 DEBUG                  params context: object (SIM.Adapters.WebServer.WebServerManager+WebServerContext)
+   1 11:52:41,598 DEBUG                  params defaultRootFolder: null
+   1 11:52:41,623 DEBUG                  return ICollection, 3 elements
+   1 11:52:41,624 DEBUG    25.32ms    -  Getting operable sites
+   1 11:52:41,624 DEBUG               -> Getting partially cached Sitecore instances
+   1 11:52:41,624 DEBUG                  params sites: ICollection, 3 elements
+   1 11:52:41,628 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 1)
+   1 11:52:41,649 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 2)
+   1 11:52:41,656 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 3)
+   1 11:52:41,664 DEBUG                  return ICollection, 0 elements
+   1 11:52:41,664 DEBUG    39.61ms    -  Getting partially cached Sitecore instances
+   1 11:52:41,665 DEBUG               -> Get instances
+   1 11:52:41,665 DEBUG                  return ICollection, 0 elements
+   1 11:52:41,665 DEBUG     0.65ms    -  Get instances
+   1 11:52:41,667 INFO  DeleteCommandFacade command has failed with unhandled exception
+System.InvalidOperationException: Cannot find instances by name: production
+   at SIM.Core.Common.AbstractMultiInstanceActionCommand.GetInstances(String listString)
+   at SIM.Core.Common.AbstractMultiInstanceActionCommand.DoExecute(CommandResult result)
+   at SIM.Core.Common.AbstractCommand.Execute()
+   1 11:52:41,935 INFO  **********************************************************************
+   1 11:52:41,949 INFO  **********************************************************************
+   1 11:52:41,949 INFO  Sitecore Instance Manager started
+   1 11:52:41,949 INFO  Version: 1.5.0.112
+   1 11:52:41,949 INFO  Revision: 0.112
+   1 11:52:41,949 INFO  Label: 
+   1 11:52:41,949 INFO  IsQA: False
+   1 11:52:41,949 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:52:41,949 INFO  Arguments: install|-n|production
+   1 11:52:41,949 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:52:41,949 INFO  **********************************************************************
+   1 11:52:41,949 INFO  **********************************************************************
+   1 11:52:41,952 DEBUG               Insights - starting
+   1 11:52:42,003 DEBUG               Insights - started
+   1 11:53:27,487 INFO  **********************************************************************
+   1 11:53:27,502 INFO  **********************************************************************
+   1 11:53:27,502 INFO  Sitecore Instance Manager started
+   1 11:53:27,502 INFO  Version: 1.5.0.112
+   1 11:53:27,502 INFO  Revision: 0.112
+   1 11:53:27,502 INFO  Label: 
+   1 11:53:27,502 INFO  IsQA: False
+   1 11:53:27,502 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:53:27,502 INFO  Arguments: login|production
+   1 11:53:27,502 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:53:27,502 INFO  **********************************************************************
+   1 11:53:27,502 INFO  **********************************************************************
+   1 11:53:27,506 DEBUG               Insights - starting
+   1 11:53:27,559 DEBUG               Insights - started
+   1 11:53:42,027 INFO  **********************************************************************
+   1 11:53:42,041 INFO  **********************************************************************
+   1 11:53:42,041 INFO  Sitecore Instance Manager started
+   1 11:53:42,041 INFO  Version: 1.5.0.112
+   1 11:53:42,041 INFO  Revision: 0.112
+   1 11:53:42,041 INFO  Label: 
+   1 11:53:42,041 INFO  IsQA: False
+   1 11:53:42,041 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:53:42,041 INFO  Arguments: delete|-n|-n
+   1 11:53:42,041 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:53:42,041 INFO  **********************************************************************
+   1 11:53:42,041 INFO  **********************************************************************
+   1 11:53:42,045 DEBUG               Insights - starting
+   1 11:53:42,097 DEBUG               Insights - started
+   1 11:53:42,342 INFO  **********************************************************************
+   1 11:53:42,357 INFO  **********************************************************************
+   1 11:53:42,357 INFO  Sitecore Instance Manager started
+   1 11:53:42,357 INFO  Version: 1.5.0.112
+   1 11:53:42,357 INFO  Revision: 0.112
+   1 11:53:42,357 INFO  Label: 
+   1 11:53:42,357 INFO  IsQA: False
+   1 11:53:42,357 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:53:42,357 INFO  Arguments: install|-n|-n
+   1 11:53:42,357 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:53:42,357 INFO  **********************************************************************
+   1 11:53:42,357 INFO  **********************************************************************
+   1 11:53:42,360 DEBUG               Insights - starting
+   1 11:53:42,410 DEBUG               Insights - started
+   1 11:54:03,538 INFO  **********************************************************************
+   1 11:54:03,552 INFO  **********************************************************************
+   1 11:54:03,552 INFO  Sitecore Instance Manager started
+   1 11:54:03,552 INFO  Version: 1.5.0.112
+   1 11:54:03,552 INFO  Revision: 0.112
+   1 11:54:03,552 INFO  Label: 
+   1 11:54:03,552 INFO  IsQA: False
+   1 11:54:03,552 INFO  Executable: C:\Users\mjohnson\AppData\Roaming\Sitecore\Sitecore Instance manager\Apps\SIMCMD\sim.exe
+   1 11:54:03,552 INFO  Arguments: login|-n|production
+   1 11:54:03,552 INFO  Directory: C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local
+   1 11:54:03,552 INFO  **********************************************************************
+   1 11:54:03,552 INFO  **********************************************************************
+   1 11:54:03,556 DEBUG               Insights - starting
+   1 11:54:03,609 DEBUG               Insights - started
+   1 11:54:03,714 DEBUG               params defaultRootFolder: null
+   1 11:54:03,716 DEBUG               -> Getting operable sites
+   1 11:54:03,716 DEBUG                  params context: object (SIM.Adapters.WebServer.WebServerManager+WebServerContext)
+   1 11:54:03,716 DEBUG                  params defaultRootFolder: null
+   1 11:54:03,741 DEBUG                  return ICollection, 3 elements
+   1 11:54:03,742 DEBUG    26.13ms    -  Getting operable sites
+   1 11:54:03,743 DEBUG               -> Getting partially cached Sitecore instances
+   1 11:54:03,743 DEBUG                  params sites: ICollection, 3 elements
+   1 11:54:03,746 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 1)
+   1 11:54:03,766 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 2)
+   1 11:54:03,774 DEBUG                  InstanceManager:GetPartiallyCachedInstance(Site: 3)
+   1 11:54:03,781 DEBUG                  return ICollection, 0 elements
+   1 11:54:03,781 DEBUG    38.11ms    -  Getting partially cached Sitecore instances
+   1 11:54:03,782 DEBUG               -> Get instances
+   1 11:54:03,783 DEBUG                  return ICollection, 0 elements
+   1 11:54:03,783 DEBUG     0.79ms    -  Get instances

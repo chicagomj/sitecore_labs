@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {90D4FC1B-6E89-4385-AB15-781AAB76ED0E}
+database: master
+path: /sitecore/templates/TAC/Careers/Job Page/__Standard Values
+parent: {51C41FF7-EA33-4882-8C6D-4ADCB2927624}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {51C41FF7-EA33-4882-8C6D-4ADCB2927624}
+templatekey: Job Page
+created: 20170710T171832:636353039128030000
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1720
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{B9542681-CA29-4A7C-98AC-6E21CC77DB20}"><p uid="{FF7037B8-234A-4AE4-A3D5-7853844A0E35}" key="mainContent" md="/sitecore/layout/Placeholder Settings/TAC/mainContent" /><p uid="{FBE20FD5-BFD4-4DA8-B61B-C9A64FD645DD}" key="columnRight" md="/sitecore/layout/Placeholder Settings/TAC/columnRight" /><p uid="{7F5C40E6-2836-401F-B32F-100D57E77287}" key="columnContent" md="/sitecore/layout/Placeholder Settings/TAC/columnContent" /><r id="{7EBA9237-D27F-4532-A1A8-4A77659EFDD6}" ph="headerNavigation" uid="{26BB80CB-CAA2-45FA-BF10-15DA00390634}" /><r id="{19B266AA-1D31-44AF-AA98-40E224369C55}" ph="headerContent" uid="{FE4156D4-27C5-4CC4-AF64-B8B3C8C09B1A}" /><r id="{C34CB96D-8AE0-4E4C-849B-0AFB6AC21D89}" ph="headerContent" uid="{0C32731B-5423-422B-9B02-B3857D9554C2}" /><r ds="" id="{EB9DE482-FE26-4C0C-B6AB-FFE51C49BF6C}" par="" ph="mainContent" uid="{27816425-6226-4991-8BF8-F5B943FB93E2}" /><r id="{37D1B2F2-5521-4E3C-9E22-AC6F17783A84}" ph="mainContent" uid="{F052361E-CC4B-49CD-9052-6E51CD424AA5}" /><r id="{DA265502-3D05-4C3F-9731-6E043637978C}" ph="columnContent" uid="{A2D5E1EA-8E4E-4D2F-AADD-900AED047CC5}" /><r id="{26317724-F81C-4F20-BE70-B0FBCD702EFB}" ph="columnRight" uid="{D54F5520-2639-466C-A397-F65306ACC9EC}" /><r id="{35206314-DE2C-4697-8D27-880BDCC2733B}" ph="columnRight" uid="{C428C4C2-A961-4E50-AD98-CAD2CB67E3C6}" /><r ds="{C40EA54D-3DC6-4064-A40A-E0A63061231E}" id="{B9A9EA5D-A50D-4377-8C33-6EDA1D65C021}" par="" ph="footerContent" uid="{1A311AEC-5D0E-4C84-AE0F-C32ABDB80BA9}" /><r id="{90E323C8-8503-4950-81C1-C9BB983159C3}" ph="footerContent" uid="{D126CCE0-9211-4D2A-B674-E3DE261E5E33}" /></d></r>
+----version----
+language: en
+version: 1
+revision: 037aa907-dcee-4cb1-afa6-e9d03a887ae9
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 266
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{CDC8EE4D-C961-423B-8D85-FD2AF668D377}" p:after="r[@uid='{A2D5E1EA-8E4E-4D2F-AADD-900AED047CC5}']" s:id="{EECFE3FF-2BC9-42D0-8958-43AFB3345F53}" s:ph="columnContent" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160425T111518Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+037aa907-dcee-4cb1-afa6-e9d03a887ae9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092255Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

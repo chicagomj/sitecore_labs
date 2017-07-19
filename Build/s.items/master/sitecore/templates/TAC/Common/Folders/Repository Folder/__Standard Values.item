@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {F76EEA3A-04FD-4BF0-A24F-175C2745032E}
+database: master
+path: /sitecore/templates/TAC/Common/Folders/Repository Folder/__Standard Values
+parent: {92C37D00-4760-4EB0-B1F8-AF5E95FAA031}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {92C37D00-4760-4EB0-B1F8-AF5E95FAA031}
+templatekey: Repository Folder
+created: 20170710T171832:636353039129430000
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 77
+
+{92C37D00-4760-4EB0-B1F8-AF5E95FAA031}|{F9CE4319-4059-4A07-A606-629CD6BF2EBE}
+----version----
+language: en
+version: 1
+revision: dbbc2eb2-2be3-461b-9120-9b3ba619228e
+
+----field----
+field: {25D57132-8BA2-4B84-A218-04EF4B7473D1}
+name: ExcludeFromNavigation
+key: excludefromnavigation
+content-length: 1
+
+1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160425T113402Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dbbc2eb2-2be3-461b-9120-9b3ba619228e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092255Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

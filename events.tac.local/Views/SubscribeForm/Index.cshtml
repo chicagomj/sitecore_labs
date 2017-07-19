@@ -1,0 +1,17 @@
+﻿@model events.tac.local.Models.PageIntro
+@using TAC.Utils.Helpers;
+
+<div class="side-widget">
+    <h4 class="text-uppercase">@Model.Heading</h4>
+    <div class="sidebar">
+        <div class="text">@Model.Intro</div>
+        @using (Html.BeginForm())
+        {
+            @Html.FormHandler()
+            <div>
+                <input class="form-control" type="email" placeholder="your@email.com" name="email">
+            </div>
+            <input class="btn btn-default" type="submit" value="Subscribe">
+        }
+    </div>
+</div>

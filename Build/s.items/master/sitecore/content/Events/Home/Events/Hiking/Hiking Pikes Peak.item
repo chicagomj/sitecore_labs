@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {254E9B7B-24D5-4F1A-B597-E991D349DC70}
+database: master
+path: /sitecore/content/Events/Home/Events/Hiking/Hiking Pikes Peak
+parent: {8BAA0A57-280A-4C5D-BEF8-DEE5C7BCEE37}
+name: Hiking Pikes Peak
+master: {00000000-0000-0000-0000-000000000000}
+template: {724BC583-2DAE-40FE-AEF0-9901AA91F476}
+templatekey: Event Details
+created: 20170711T205733:636354034534670000
+
+----version----
+language: en
+version: 1
+revision: 9e978b78-2345-4435-a2df-de3c67f73e61
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 17
+
+Hiking Pikes Peak
+----field----
+field: {61D3E4F9-5D02-4745-AFDC-742B4DE0DDEB}
+name: Event Image
+key: event image
+content-length: 176
+
+<image mediapath="" alt="hiking-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{34C7C06C-A779-4F6F-A5C6-03ED46794799}" ></image>
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 17
+
+Hiking Pikes Peak
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170711T205733Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9e978b78-2345-4435-a2df-de3c67f73e61
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T180356Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\Anonymous
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

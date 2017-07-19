@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {58790138-98CA-457E-BB86-DA7E23C6E34A}
+database: master
+path: /sitecore/content/Events/Home/Events/Climbing
+parent: {9CD94EE3-459A-4B17-A79B-FBD69ABA3EE4}
+name: Climbing
+master: {00000000-0000-0000-0000-000000000000}
+template: {92C878F6-7573-4AE0-9D44-1DE3C19A0986}
+templatekey: Events List
+created: 20170711T205513:636354033130400000
+
+----field----
+field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
+name: __Editors
+key: __editors
+content-length: 0
+
+
+----field----
+field: {6FD695E7-7F6D-4CA5-8B49-A829E5950AE9}
+name: __Subitems Sorting
+key: __subitems sorting
+content-length: 38
+
+{32416A95-4197-4D33-8CE7-7BB4FFEBEB42}
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 4de19d35-f8f9-4025-b646-760a9a617435
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 8
+
+Climbing
+----field----
+field: {316D090C-0128-4C15-AE3E-0B7AC6423197}
+name: DecorationBanner
+key: decorationbanner
+content-length: 171
+
+<image mediapath="" alt="climbing-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{4BEAEF93-CDF9-4E1A-96D6-DBDB8D64354D}" />
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 8
+
+Climbing
+----field----
+field: {25D57132-8BA2-4B84-A218-04EF4B7473D1}
+name: ExcludeFromNavigation
+key: excludefromnavigation
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170711T205513Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4de19d35-f8f9-4025-b646-760a9a617435
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T180432Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

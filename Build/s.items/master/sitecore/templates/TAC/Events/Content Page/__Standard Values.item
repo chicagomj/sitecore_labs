@@ -1,0 +1,68 @@
+----item----
+version: 1
+id: {E407AE63-FD18-4802-89D9-400DD8800BF6}
+database: master
+path: /sitecore/templates/TAC/Events/Content Page/__Standard Values
+parent: {CBDD79AD-8311-4943-B16C-C553E7797F94}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {CBDD79AD-8311-4943-B16C-C553E7797F94}
+templatekey: Content Page
+created: 20170711T203559:636354021592630000
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{A3746154-D2BE-4D9F-95DE-2C5D75FAF48A}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 105
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{94D058FC-B167-4E9C-A8C5-C702767A2164}" />
+</r>
+----version----
+language: en
+version: 1
+revision: d9d25bc6-aaaa-4cb8-b533-b7e9043c4117
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170711T203559Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d9d25bc6-aaaa-4cb8-b533-b7e9043c4117
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170712T160242Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

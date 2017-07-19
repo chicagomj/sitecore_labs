@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {0A6BFBAE-AAA1-4CD4-835F-68416FD2C5D1}
+database: master
+path: /sitecore/layout/Placeholder Settings/TAC/Events/main
+parent: {DB9F093C-6E3A-47F9-80AC-13415D47BDDF}
+name: main
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+created: 20170712T203240:636354883605170000
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 4
+
+main
+----field----
+field: {E391B526-D0C5-439D-803E-17512EAE6222}
+name: Allowed Controls
+key: allowed controls
+content-length: 77
+
+{1C33C7D7-DD7C-420E-9F27-ED7B89E3E7DE}|{FCD6B796-3BDF-4458-A9A5-7837D7F0DDE4}
+----version----
+language: en
+version: 1
+revision: 6f1a0acd-3d69-4400-8b24-d42d37bc0e09
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170712T203240Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f1a0acd-3d69-4400-8b24-d42d37bc0e09
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170712T203307Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

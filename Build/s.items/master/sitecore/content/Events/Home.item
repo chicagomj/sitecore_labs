@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {98AE365E-4E25-48A5-9F31-86B86CDA933B}
+database: master
+path: /sitecore/content/Events/Home
+parent: {FD9337F4-B402-40FC-AAAA-EE1D3BC3495F}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {99498322-918C-4E91-8CCA-9082074A7832}
+templatekey: Home Page
+created: 20170711T205122:636354030822000000
+
+----version----
+language: en
+version: 1
+revision: 20f5cd53-ecbf-48e4-9a63-7e30b38a7bc3
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 6
+
+Events
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 22
+
+Welcome to Events Site
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 4
+
+Home
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1622
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{553DD1BA-D439-4552-B0B0-BA64B0A685C0}" p:before="*" s:ds="{E28A2B51-DC45-4FDE-872C-81F3E33BC895}" s:id="{34E52CCD-3726-4B41-938A-46AC5BA69357}" s:par="CssClass=bg-primary" s:ph="/main/pageContent/featuredEvents"><rls><ruleset><rule uid="{A2E5B542-6E55-4755-8E3E-F187DED0CDE1}" s:name="When the visitor is a Hiker"><conditions><condition uid="579B525CBFA7497CBB59A1AB084EC03A" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Activity" s:PatternName="Hiker" /></conditions><actions><action uid="5BCB52EB0ABC4E999A7ACF0A51E5A7A4" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{254E9B7B-24D5-4F1A-B597-E991D349DC70}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="A3A301B2D2D345A58B8AD314287504E4" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{B78189BF-FFFE-436B-A469-E4B967A8D51C}" p:after="r[@uid='{553DD1BA-D439-4552-B0B0-BA64B0A685C0}']" s:ds="{254E9B7B-24D5-4F1A-B597-E991D349DC70}" s:id="{34E52CCD-3726-4B41-938A-46AC5BA69357}" s:par="CssClass={F6E152EE-A950-4F4B-81F9-265160480B42}" s:ph="/main/pageContent/featuredEvents" /><r uid="{47EAC1DE-56E2-4BE7-B658-12DD145B4B91}" p:after="r[@uid='{B78189BF-FFFE-436B-A469-E4B967A8D51C}']" s:ds="{16902623-DCCE-49D6-AB64-20AB546B1714}" s:id="{34E52CCD-3726-4B41-938A-46AC5BA69357}" s:par="CssClass={48FB7E37-8D75-4930-9E51-AC6EDDDACDA0}" s:ph="/main/pageContent/featuredEvents" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170711T205122Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+20f5cd53-ecbf-48e4-9a63-7e30b38a7bc3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170717T200413Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

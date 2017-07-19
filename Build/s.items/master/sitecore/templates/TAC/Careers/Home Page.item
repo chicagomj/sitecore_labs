@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {C1177C0B-769B-4B86-AD27-265782DF7A7F}
+database: master
+path: /sitecore/templates/TAC/Careers/Home Page
+parent: {A8CE5485-93D0-4F12-8CE7-45520368A5A3}
+name: Home Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+created: 20170710T171831:636353039118870000
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 194
+
+{C70AE340-4139-417A-B4CB-97EBA11684AC}|{87A8AB4D-15AB-471B-8096-8F9FFCD1C88C}|{96F5676B-4515-4046-A962-1C62253BE1AD}|{E5FF6A13-6303-483C-B7C9-211780BB07A1}|{F28DEC76-0684-44AB-8D65-20F4A4774F51}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 38
+
+{E2FC08C9-9393-4429-8705-74BABA64A777}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 21
+
+Office/32x32/home.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: 19981873-bc95-4a20-b5c6-df96a62aa7df
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160425T110210Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+19981873-bc95-4a20-b5c6-df96a62aa7df
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092248Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

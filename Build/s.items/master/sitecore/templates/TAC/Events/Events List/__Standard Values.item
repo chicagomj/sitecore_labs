@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {F169A059-7343-4A93-9EA3-896178E37BEE}
+database: master
+path: /sitecore/templates/TAC/Events/Events List/__Standard Values
+parent: {92C878F6-7573-4AE0-9D44-1DE3C19A0986}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {92C878F6-7573-4AE0-9D44-1DE3C19A0986}
+templatekey: Events List
+created: 20170711T203528:636354021287130000
+
+----field----
+field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
+name: __Editors
+key: __editors
+content-length: 38
+
+{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{724BC583-2DAE-40FE-AEF0-9901AA91F476}
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+1
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 568
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{94D058FC-B167-4E9C-A8C5-C702767A2164}">
+    <r id="{FCD6B796-3BDF-4458-A9A5-7837D7F0DDE4}" ph="main" uid="{32809BE8-2193-4A8A-9745-C96909BDE74B}" />
+    <r id="{4AC9D37F-CB0D-43C9-A1BA-B3F35DD37EAA}" ph="pageSide" uid="{B554F78A-3F4D-45D1-A1C2-33C118E56CC9}" />
+    <r id="{9F647254-46D5-41C5-852E-A2D384F44559}" ph="pageContent" uid="{969C62F8-7232-444E-80C7-BD6F753FDFF4}" />
+    <r id="{3BFBDA1B-3827-4E2F-A78E-D4F6367CB37B}" ph="pageHeader" uid="{61718420-098C-4986-81EB-8331A86A5B92}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: 6459f10f-83ab-461a-b7b4-5642dfa421b3
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170711T203528Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6459f10f-83ab-461a-b7b4-5642dfa421b3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T174659Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

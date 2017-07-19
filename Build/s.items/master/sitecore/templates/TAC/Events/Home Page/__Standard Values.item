@@ -1,0 +1,71 @@
+----item----
+version: 1
+id: {66EE58E1-FD0E-45CC-B403-D18268775EAA}
+database: master
+path: /sitecore/templates/TAC/Events/Home Page/__Standard Values
+parent: {99498322-918C-4E91-8CCA-9082074A7832}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {99498322-918C-4E91-8CCA-9082074A7832}
+templatekey: Home Page
+created: 20170711T203308:636354019886600000
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{A3746154-D2BE-4D9F-95DE-2C5D75FAF48A}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 338
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{94D058FC-B167-4E9C-A8C5-C702767A2164}">
+    <r id="{1C33C7D7-DD7C-420E-9F27-ED7B89E3E7DE}" ph="main" uid="{137C3CAF-48BD-4A9C-9416-846AF43523C0}" />
+    <r id="{7AFA7CC9-EB99-4F9E-A867-63E8CCB89BD2}" ph="pageContent" uid="{B68FB07A-B767-445C-A8EC-CA61E8BA9482}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: a8e51269-4678-4d0e-9d17-d41127a37db4
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170711T203308Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a8e51269-4678-4d0e-9d17-d41127a37db4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170712T203825Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

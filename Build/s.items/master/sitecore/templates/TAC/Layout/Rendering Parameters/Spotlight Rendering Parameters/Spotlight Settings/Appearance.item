@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {BCE67754-41E5-451C-ADC2-CD421B0E54D2}
+database: master
+path: /sitecore/templates/TAC/Layout/Rendering Parameters/Spotlight Rendering Parameters/Spotlight Settings/Appearance
+parent: {1A870916-66D6-44C9-A2FE-FB58A69B4434}
+name: Appearance
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+created: 20170710T171832:636353039127130000
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 8
+
+Droplink
+----field----
+field: {1EB8AE32-E190-44A6-968D-ED904C794EBF}
+name: Source
+key: source
+content-length: 38
+
+{0F56ABA7-7950-4087-A1D0-FF63F5263CCD}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: en
+version: 1
+revision: e60c6280-0079-4a94-826a-626b69ea4321
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160428T175338Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e60c6280-0079-4a94-826a-626b69ea4321
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092252Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

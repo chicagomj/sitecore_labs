@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {F43CCEA9-C8EF-4101-A83B-A4E4366E5173}
+database: master
+path: /sitecore/templates/TAC/Common/Folders/Job Folder/__Standard Values
+parent: {F6D2E070-048A-4BE3-BC57-9D950F0B3410}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {F6D2E070-048A-4BE3-BC57-9D950F0B3410}
+templatekey: Job Folder
+created: 20170710T171832:636353039129200000
+
+----version----
+language: en
+version: 1
+revision: a9a77ceb-f5b4-4e96-af95-628664a3e60f
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160428T192423Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a9a77ceb-f5b4-4e96-af95-628664a3e60f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092255Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

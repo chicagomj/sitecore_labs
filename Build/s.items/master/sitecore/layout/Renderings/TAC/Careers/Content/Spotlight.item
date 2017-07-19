@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {AC2A2F97-74E2-46C8-917B-24AB8E699E55}
+database: master
+path: /sitecore/layout/Renderings/TAC/Careers/Content/Spotlight
+parent: {86F8738F-404C-4BDC-9B9C-D632E44068B3}
+name: Spotlight
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
+templatekey: View rendering
+created: 20170710T171833:636353039138170000
+
+----field----
+field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
+name: Path
+key: path
+content-length: 43
+
+/Views/TAC/Careers/Content/Spotlight.cshtml
+----field----
+field: {7D24E54F-5C16-4314-90C9-6051AA1A7DA1}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{720E0244-2793-4EB5-8A13-313A853BB338}
+----field----
+field: {EF7C5528-7307-4E19-863B-DA19EED6A9ED}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+1
+----version----
+language: en
+version: 1
+revision: 48c28b9d-ff72-41fc-9078-e0cc3688c341
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160428T120557Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+48c28b9d-ff72-41fc-9078-e0cc3688c341
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160824T092247Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

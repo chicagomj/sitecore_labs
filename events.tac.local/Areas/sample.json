@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Climbing into the abyss",
+        "ContentHeading": "Climbing into the abyss",
+        "ContentIntro": "Experience the thrills of deep cave exploration",
+        "Highlights": "Explore the inner world",
+        "StartDate": "2019-08-31",
+        "Duration" : "1",
+        "Difficulty" : "3"                
+    },
+    {
+        "Name": "Trekking in Kurdistan",
+        "ContentHeading": "Trekking in Kurdistan",
+        "ContentIntro": "Get a different view of Iraq. Explore the Zagros Mountains including its highest peak Mount Halgurd",
+        "Highlights": "Explore the Zagros Mountains",
+        "StartDate": "2017-09-03",
+        "Duration" : "5",        
+        "Difficulty" : "4"                
+    },
+    {
+        "Name": "Scotish Highlands",
+        "ContentHeading": "Scotish Highlands",
+        "ContentIntro": "The Bullers of Buchan are one of the most dramatic features on the Aberdeenshire coastline. Here a great blow hole or collapsed cavern is the central feature, but the whole coast has plenty of interest",
+        "Highlights": "Buller of Buchan",
+        "StartDate": "2017-09-04",
+        "Duration" : "2",        
+        "Difficulty" : "2"        
+    }
+]

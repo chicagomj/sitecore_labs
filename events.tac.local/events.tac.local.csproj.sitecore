@@ -1,0 +1,26 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="events.tac.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\TAC\Events\Layouts\Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{598F3236-5149-41C1-9E36-98D0D6A53290}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/Home.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{598F3236-5149-41C1-9E36-98D0D6A53290}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Layouts\Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{94D058FC-B167-4E9C-A8C5-C702767A2164}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{94D058FC-B167-4E9C-A8C5-C702767A2164}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/HomeContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{3D926305-FEF6-4119-9C45-F26D60D3756B}</Item>
+  </File>
+  <File Include="Views\TAC\Events\SideContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{E6E5A39F-7774-4120-8A86-04CD376C3FB9}</Item>
+  </File>
+  <File Include="Views\TAC\Events\PageContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{5FD901C0-6F21-4E98-8C0E-16A3FD8D2A8E}</Item>
+  </File>
+</Project>

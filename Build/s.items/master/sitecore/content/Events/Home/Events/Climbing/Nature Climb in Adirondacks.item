@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {16902623-DCCE-49D6-AB64-20AB546B1714}
+database: master
+path: /sitecore/content/Events/Home/Events/Climbing/Nature Climb in Adirondacks
+parent: {58790138-98CA-457E-BB86-DA7E23C6E34A}
+name: Nature Climb in Adirondacks
+master: {00000000-0000-0000-0000-000000000000}
+template: {724BC583-2DAE-40FE-AEF0-9901AA91F476}
+templatekey: Event Details
+created: 20170711T210014:636354036149670000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: 6a5d1182-12d8-41e5-a99e-52063ec21c69
+
+----field----
+field: {155E9FC2-06EC-4902-94C7-49FB8CF89F8C}
+name: ContentBody
+key: contentbody
+content-length: 11
+
+nature body
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 27
+
+Nature Climb in Adirondacks
+----field----
+field: {61D3E4F9-5D02-4745-AFDC-742B4DE0DDEB}
+name: Event Image
+key: event image
+content-length: 171
+
+<image mediapath="" alt="climbing-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{4BEAEF93-CDF9-4E1A-96D6-DBDB8D64354D}" />
+----field----
+field: {F35DACEC-61A9-49C5-90BD-05E58F0C7727}
+name: MetaTitle
+key: metatitle
+content-length: 27
+
+Nature Climb in Adirondacks
+----field----
+field: {68ACBB05-02B9-451D-A85C-71074DB5D8D7}
+name: RobotsIndex
+key: robotsindex
+content-length: 0
+
+
+----field----
+field: {648581F5-0B1B-40C7-AD1A-5991FB630DA3}
+name: RobotsFollow
+key: robotsfollow
+content-length: 0
+
+
+----field----
+field: {461C5D5A-1CA4-48D8-BAF6-6449C376BCB2}
+name: Related Events
+key: related events
+content-length: 77
+
+{5BE790EE-F5E9-4EC8-B320-6560003CD74C}|{254E9B7B-24D5-4F1A-B597-E991D349DC70}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170711T210014Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6a5d1182-12d8-41e5-a99e-52063ec21c69
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170718T182726Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+sitecore\mjohnson
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

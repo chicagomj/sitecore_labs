@@ -1,0 +1,23 @@
+C:\Data\Sitecore\Sitecore Experience Solution Developer\Student Resources\Events\tac.utils\obj\Debug\tac.utils.csprojResolveAssemblyReference.cache
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\TAC.Utils.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\TAC.Utils.pdb
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\Microsoft.Owin.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\Owin.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\Sitecore.Kernel.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\Sitecore.Mvc.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.Helpers.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.Mvc.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.Razor.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.WebPages.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\Microsoft.Owin.xml
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.Helpers.xml
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.Mvc.xml
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.Razor.xml
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.WebPages.xml
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\obj\Debug\TAC.Utils.dll
+C:\Users\mjohnson\Documents\Visual Studio 2017\Projects\events.tac.local\tac.utils\obj\Debug\TAC.Utils.pdb

@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {5056F6E2-F759-4E99-8AE1-829492C7F34A}
+database: master
+path: /sitecore/layout/Renderings/TAC/Events/Overview
+parent: {4645456E-4E53-4BB7-A532-7C89DB6B0A83}
+name: Overview
+master: {00000000-0000-0000-0000-000000000000}
+template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
+templatekey: Controller rendering
+created: 20170714T211850:636356639302830000
+
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 8
+
+Overview
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 5
+
+Index
+----version----
+language: en
+version: 1
+revision: 630aff2a-2827-425e-87bb-d1fbc46e6a7c
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170714T211850Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+630aff2a-2827-425e-87bb-d1fbc46e6a7c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170714T211859Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
